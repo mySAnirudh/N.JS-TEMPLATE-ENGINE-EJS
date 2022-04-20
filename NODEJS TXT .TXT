@@ -1,0 +1,25 @@
+
+ 
+     *** Template Engine ***
+
+     1/ What is the template engine?
+     2/ Install ejs template
+     3/ Setup dynamic routing 
+     4/ Make dynamic page 
+
+     
+     1/ What is the template engine?
+     -> Ye dynamic pages banane me kaam aata hai, and isko Install karna padta hai
+
+     ** Normal Page:- Jo html content de diya vahi rah gaya it's called static page
+     -> Uske under jo likha hai wahi dikega it's called static page  
+
+     ** Dynamic Pages :- Jisme data database se uth ke aaya it's called dynamic pages 
+
+     ** Why we use ejs template package (engine)
+     -> There is total 7-8 engine but , ejs is mostly use 
+     -> ejs is very popular template package
+
+
+     ** Most of the time we use node js for npm 95% but sometime we use node js for make dynamic pages also 
+     
